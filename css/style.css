@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap");
 .attribution {
-    font-size: 11px;
+    font-size: 0.6875rem;
     text-align: center;
 }
 .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: var(--Dark-cyan);
 }
 :root {
     --Dark-cyan: hsl(158, 36%, 37%);
@@ -74,6 +74,7 @@ h6 {
 }
 
 .image-content img {
+    min-height: 100%;
     border-radius: 10px 0 0 10px;
     transition: 0.6s ease-in-out;
 }
@@ -167,16 +168,6 @@ h6 {
 
 @media (max-width: 610px) {
     .main-container {
-        max-width: 36.25rem;
-    }
-    .description-content {
-        padding: 2rem;
-        gap: 1.3rem;
-    }
-}
-
-@media (max-width: 424px) {
-    .main-container {
         grid-template-columns: repeat(1, 1fr);
         max-width: 22.25rem;
     }
@@ -195,8 +186,8 @@ h6 {
     }
 }
 
-@media (max-width: 370px) {
-    .main-container {
-        max-width: 21.375rem;
+@media (max-width: 416px) {
+    body {
+        padding: 0.625rem;
     }
 }
