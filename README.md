@@ -10,8 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-main-qJdQJarkWq)
-- Live Site URL: [Live site URL here](https://ivo-luis.github.io/Product-Preview-Card-Component-Main/)
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-main-qJdQJarkWq
+- Live Site URL: https://ivo-luis.github.io/Product-Preview-Card-Component-Main/
 
 
 ### Built with
@@ -26,4 +26,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Loading...]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/IVO-LUIS)
+- Frontend Mentor - [@IVO-LUIS](https://www.frontendmentor.io/profile/IVO-LUIS)
